@@ -1,4 +1,4 @@
-# chicago_crimes
+# chicago_crimes (In process)
 Chicago crimes analisis 
 
 
@@ -6,3 +6,6 @@ Chicago crimes analisis
 
 
 Se va a utilizar Python, SQL, y looker Studio
+
+
+I
