@@ -8,4 +8,4 @@ Chicago crimes analisis
 Se va a utilizar Python, SQL, y looker Studio
 
 
-I
+
